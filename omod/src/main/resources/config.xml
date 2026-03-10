@@ -5,7 +5,7 @@
 
     <id>communication</id>
     <name>Communication</name>
-    <version>${project.parent.version}</version>
+    <version>${project.version}</version>
     <description>Provides communication services like sending mail</description>
     <package>org.bahmni.module.communication</package>
     <author>Bahmni</author>
